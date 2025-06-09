@@ -20,7 +20,7 @@ At Solution Champs, I contribute to delivering enterprise-grade software and aut
 
 ```bash
 Languages: JavaScript | TypeScript | Python | Java | C
-Frontend: React.js | Vue.js | HTML5 | CSS3 | Tailwind CSS | Bootstrap
-Backend: Node.js | Express.js | Laravel | Django
+Frontend: React.js | HTML5 | CSS3 | Tailwind CSS | Bootstrap
+Backend: Node.js | Express.js | NestJS
 Databases: MongoDB | MySQL | PostgreSQL
-Tools & Platforms: Git | Docker | Postman | Figma | GitHub Actions | Firebase | AWS | Netlify | Vercel
+Tools & Platforms: Git | Postman | Figma | GitHub Actions | Vercel
