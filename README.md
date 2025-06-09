@@ -1,27 +1,26 @@
-# 👋 Hi, I'm Muhammed Jasim
+# 👋 Welcome to Solution Champs
 
-### 💻 Software Developer | 🚀 Passionate Problem Solver | 📍 Based in India  
-Currently working at **[Solution Champs](https://solutionchamps.com)**
-
----
-
-## 🧑‍💻 About Me
-
-I'm a dedicated and passionate software developer with a strong focus on building scalable and efficient web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
-
-- 🔭 Currently working on: enterprise solutions and internal automation tools
-- 🌱 Learning: system architecture, DevOps, and cloud scalability
-- 👯 Looking to collaborate on: open-source, AI integration, and web apps
-- ⚡ Fun fact: I believe clean code is just as satisfying as a good cup of coffee ☕
+### 💼 Empowering Businesses with Scalable Software Solutions | 🚀 Innovating for the Future | 📍 Based in India  
+Your trusted partner in building efficient, robust, and cutting-edge web applications.
 
 ---
 
-## 🛠 Tech Stack
+## 🏢 About Solution Champs
+
+At Solution Champs, we are passionate about delivering high-quality enterprise software and automation tools that simplify complex business challenges. Our team is dedicated to crafting scalable and maintainable solutions tailored to your unique needs.
+
+- 🔭 **Currently focused on:** Enterprise-grade software and internal automation solutions  
+- 🌱 **Continuously evolving in:** System architecture, DevOps practices, and cloud scalability  
+- 🤝 **Open to collaboration on:** Open-source projects, AI integration, and next-gen web applications  
+- ⚡ **Our philosophy:** Clean, maintainable code drives business success just as much as a well-crafted strategy drives growth
+
+---
+
+## 🛠 Our Technology Expertise
 
 ```bash
-Languages: JavaScript | TypeScript | Python | Java  | C 
-Frontend: React.js | Vue.js | HTML5 | CSS3 | Tailwind CSS | Bootstrap  
-Backend: Node.js | Express.js | Laravel | Django  
-Database: MongoDB | MySQL | PostgreSQL  
-Tools: Git | Docker | Postman | Figma  
-DevOps: GitHub Actions | Firebase | AWS | Netlify | Vercel
+Languages: JavaScript | TypeScript | Python | Java | C
+Frontend: React.js | Vue.js | HTML5 | CSS3 | Tailwind CSS | Bootstrap
+Backend: Node.js | Express.js | Laravel | Django
+Databases: MongoDB | MySQL | PostgreSQL
+Tools & Platforms: Git | Docker | Postman | Figma | GitHub Actions | Firebase | AWS | Netlify | Vercel
