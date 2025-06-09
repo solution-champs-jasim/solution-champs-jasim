@@ -1,22 +1,22 @@
-# 👋 Welcome to Solution Champs
+# 👋 Hi, I'm Muhammed Jasim
 
-### 💼 Empowering Businesses with Scalable Software Solutions | 🚀 Innovating for the Future | 📍 Based in India  
-Your trusted partner in building efficient, robust, and cutting-edge web applications.
-
----
-
-## 🏢 About Solution Champs
-
-At Solution Champs, we are passionate about delivering high-quality enterprise software and automation tools that simplify complex business challenges. Our team is dedicated to crafting scalable and maintainable solutions tailored to your unique needs.
-
-- 🔭 **Currently focused on:** Enterprise-grade software and internal automation solutions  
-- 🌱 **Continuously evolving in:** System architecture, DevOps practices, and cloud scalability  
-- 🤝 **Open to collaboration on:** Open-source projects, AI integration, and next-gen web applications  
-- ⚡ **Our philosophy:** Clean, maintainable code drives business success just as much as a well-crafted strategy drives growth
+### 💼 Software Developer at Solution Champs | 🚀 Building Scalable Software | 📍 Based in India  
+Passionate about crafting efficient, maintainable, and innovative web applications.
 
 ---
 
-## 🛠 Our Technology Expertise
+## 🏢 About My Work at Solution Champs
+
+At Solution Champs, I contribute to delivering enterprise-grade software and automation tools that simplify complex business challenges. I focus on creating scalable and maintainable solutions tailored to real-world needs.
+
+- 🔭 **Currently focused on:** Enterprise software development and internal automation tools  
+- 🌱 **Learning and evolving in:** System architecture, DevOps practices, and cloud scalability  
+- 🤝 **Open to collaborate on:** Open-source projects, AI integration, and next-gen web applications  
+- ⚡ **My philosophy:** Clean, maintainable code drives business success just as much as a well-crafted strategy drives growth
+
+---
+
+## 🛠 Tech Stack & Expertise
 
 ```bash
 Languages: JavaScript | TypeScript | Python | Java | C
