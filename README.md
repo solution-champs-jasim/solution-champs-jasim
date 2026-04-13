@@ -5,6 +5,11 @@ Passionate about crafting efficient, maintainable, and innovative web applicatio
 
 ---
 
+---
+
+<h1 align="center">Hi 👋, I'm Muhammed Jasim</h1>
+<h3 align="center">Software Developer at Solution Champs | Building Scalable Software | Based in India Passionate about crafting efficient, maintainable, and innovative web applications.</h3>
+
 ##  About My Work at Solution Champs
 
 At Solution Champs, I contribute to delivering enterprise-grade software and automation tools that simplify complex business challenges. I focus on creating scalable and maintainable solutions tailored to real-world needs.
@@ -13,11 +18,6 @@ At Solution Champs, I contribute to delivering enterprise-grade software and aut
 -  **Learning and evolving in:** System architecture, DevOps practices, and cloud scalability  
 -  **Open to collaborate on:** Open-source projects, AI integration, and next-gen web applications  
 -  **My philosophy:** Clean, maintainable code drives business success just as much as a well-crafted strategy drives growth
-
----
-
-<h1 align="center">Hi 👋, I'm Muhammed Jasim</h1>
-<h3 align="center">Software Developer at Solution Champs | Building Scalable Software | Based in India Passionate about crafting efficient, maintainable, and innovative web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solution-champs-jasim&label=Profile%20views&color=0e75b6&style=flat" alt="solution-champs-jasim" /> </p>
 
