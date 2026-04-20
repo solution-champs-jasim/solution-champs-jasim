@@ -26,7 +26,7 @@ Building scalable, high-performance, and maintainable enterprise systems
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p>
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
@@ -73,7 +73,7 @@ Building scalable, high-performance, and maintainable enterprise systems
 
 ---
 
-### 📌 Key Focus Areas
+### Key Focus Areas
 - High-scale API systems
 - Multi-tenant SaaS platforms
 - Performance tuning & query optimization
@@ -82,7 +82,7 @@ Building scalable, high-performance, and maintainable enterprise systems
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p>
 <a href="https://codepen.io/solution-champs-jasim"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40"/></a>
 <a href="https://dev.to/solution-champs-jasim"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40"/></a>
@@ -94,7 +94,7 @@ Building scalable, high-performance, and maintainable enterprise systems
 
 ---
 
-### 📈 Engineering Principles
+### Engineering Principles
 - Write **maintainable > clever code**
 - Prefer **scalability from design, not patches later**
 - Optimize only where **measurable impact exists**
@@ -102,7 +102,7 @@ Building scalable, high-performance, and maintainable enterprise systems
 
 ---
 
-### ⚡ Current Focus
+### Current Focus
 - Designing **enterprise lifecycle platforms**
 - Improving **multi-tenant architecture patterns**
 - Exploring **high-performance APIs & real-time communication (WebSockets, QUIC)**
